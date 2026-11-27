@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Pixel Restore"
+  short_description: "Screenshot-led deck restoration with measured visual QA"
+  default_prompt: "Use $ppt-pixel-restore to match this deck to the supplied reference images while preserving the locked elements."
